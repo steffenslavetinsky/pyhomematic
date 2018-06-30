@@ -521,6 +521,8 @@ DEVICETYPES = {
     "HmIP-BSM": IPSwitchPowermeter,
     "HMIP-BDT": IPKeyDimmer,
     "HmIP-BDT": IPKeyDimmer,
+    "HmIP-PDT": IPKeyDimmer,
+    "HMIP-PDT": IPKeyDimmer,
     "HM-Sec-Key": KeyMatic,
     "HM-Sec-Key-S": KeyMatic,
     "HM-Sec-Key-O": KeyMatic,
